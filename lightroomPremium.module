@@ -7,7 +7,7 @@ obj.current_subs={
         "purchase_date": "2019-10-10T16:32:10.254954Z",
         "sao": {
             "inpkg_CCES": "0",
-            "inpkg_CCLE": "0",
+            "inpkg_CCLE": "1",
             "inpkg_CCSN": "0",
             "inpkg_CCSV": "0",
             "inpkg_LCCC": "0",
