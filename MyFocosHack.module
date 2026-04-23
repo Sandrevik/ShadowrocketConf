@@ -3,7 +3,7 @@
 [Rule]
 
 [Script]
-focos-proto = type=http-response,pattern=^https?:\/\/.*\.oracle\.bendingspoonsapps\.com\/v\d\/(users\/.+|purchases\/verify),requires-body=1,binary-body-mode=1,max-size=-1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Focos.js,script-update-interval=0
+focos-proto = type=http-response,pattern=^https?:\/\/.*\.oracle\.bendingspoonsapps\.com\/v\d\/(users\/.+|purchases\/verify),requires-body=1,binary-body-mode=1,max-size=-1,script-path=https://raw.githubusercontent.com/Sandrevik/ShadowrocketConf/refs/heads/main/FocosHack.js,script-update-interval=0
 
 [MITM]
 hostname = %APPEND%, *.oracle.bendingspoonsapps.com
